@@ -1,22 +1,13 @@
 
-
 header{
     padding: 10px 20px;
     width: 100%;
-    height: 200px;
+    height: 150px;
     background-image: url("calculadora.jpg") ;
     background-size: 100%;
     background-repeat: no-repeat;
 }
-.titulo{
-    color: white;
-    max-width: 45%;
-    width: 80%;
-    margin: auto;
-    text-align: center;
-    background-color: black; 
-    font-size: 300%;  
-}
+
 .sub{
     text-align: center;
 }
