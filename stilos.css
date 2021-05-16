@@ -7,17 +7,14 @@ header{
     background-image: url("calculadora.jpg") ;
     background-size: 100%;
     background-repeat: no-repeat;
-
 }
 .titulo{
     color: white;
-    max-width: 40%;
+    max-width: 45%;
     width: 80%;
     margin: auto;
     text-align: center;
-    font-size: 300%;
-    background-color: black;
-    
+    background-color: black;   
 }
 .sub{
     text-align: center;
