@@ -19,7 +19,7 @@ form {
     padding-bottom: 10px;
     margin: auto;
     background: black;
-    color: white
+    color: white;
   }
   input[type=textfield] {
       width: 63%;
