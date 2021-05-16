@@ -10,12 +10,13 @@ header{
 }
 .titulo{
     color: white;
-    max-width: 800px;
+    max-width: 40%;
+    width: 80%;
     margin: auto;
     text-align: center;
-    height: 10vh;
-    font-size: 3em;
+    font-size: 300%;
     background-color: black;
+    
 }
 .sub{
     text-align: center;
