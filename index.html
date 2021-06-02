@@ -96,20 +96,7 @@
             form.display.value = eval(form.display.value) * eval(form.display.value)
             }
 
-            //*lic esta parte lo copie de un formulario de perfiles que hacia que no metas datos erronios a traves de una cadena, pero esto solo esta puesto en las funciones, por que ahi se genera mas problemas, lo cual asi que se me colgara*//
-            function checkNum(str) {
-            for (var i = 0; i < str.length; i++) {
-            var ch = str.charAt(i);
-            if (ch < "0" || ch > "9") {
-            if (ch != "/" && ch != "*" && ch != "+" && ch != "-" && ch != "."
-            && ch != "(" && ch!= ")" && ch != "%") {
-            alert("invalid entry!")
-            return false
-            }
-            }
-            }
-            return true
-            }
+
             </script>
 
 </body>
